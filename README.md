@@ -8,7 +8,7 @@
 <hr>
 <div align="center">
   <img src=https://github.com/markovuser/Inno-Script-Tools/blob/main/assets/Inno-Script-Tools-1.png width="250">
-  <img src=https://github.com/markovuser/Inno-Script-Tools/blob/main/assets/Inno-Script-Tools-1.png width="250"><br><br>
+  <img src=https://github.com/markovuser/Inno-Script-Tools/blob/main/assets/Inno-Script-Tools-2.png width="250"><br><br>
 </div>
 <hr>
 <div align="center">
